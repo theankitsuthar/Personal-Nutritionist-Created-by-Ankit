@@ -18,6 +18,6 @@ Curious about the nutritional value of your meals? Wonder no more! With my new a
 - **Swift Analysis**: Get rapid insights into your meal's nutritional profile.
 - **Visual Insights**: Visualize nutrition data for clearer understanding.
 
-🌟 **Ready to Try?** [Click here to explore the app!](your_app_link_here)
+🌟 **Ready to Try?** (https://personal-nutritionist-created-by-ankit-9paqvbmlcxkeavtasltgvg.streamlit.app/)
 
 📈 **Unlock a deeper understanding of your diet today!** Let's embark on a journey to healthier choices together. #NutritionAnalysis #HealthyLiving #DataScience #Streamlit
